@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: bgpcv-zzr2e
+created: 2025-07-03T20:50:28-05:00
